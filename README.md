@@ -35,3 +35,8 @@
 - Access the application at `http://localhost:3000`.
 - Dive into the codebase and explore various features and functionalities.
 
+  ## Notes
+
+- **Branch Note**: The project resides in the `master` branch, not in the `main` branch.
+
+
